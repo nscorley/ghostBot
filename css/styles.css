@@ -1,0 +1,64 @@
+html,body {
+  height:100%;
+}
+
+h1 {
+  font-family: Arial,sans-serif
+  font-size:80px;
+  color:#DDCCEE;
+}
+
+.lead {
+	color:#DDCCEE;
+}
+
+.start-btn{
+	width:25%;
+	padding:10px;
+}
+
+/* Custom container */
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#110022;
+  color:#eee;
+  overflow:hidden;
+}
+
+.container-full a {
+  color:#efefef;
+  text-decoration:none;
+}
+
+.v-center {
+  margin-top:7%;
+}
+#position{
+	padding:10px;
+	font-size:60px;
+	margin-top:5px;
+}
+
+#end_text{
+	padding:20px;
+	font-size:25px;
+	margin-top:5px;
+}
+#potential_words{
+	font-size:20px;
+}
+#firstPage{
+	margin-top:130px;
+}
+#secondPage{
+	margin-top:140px;
+}
+#json_holder{
+	background:black;
+	height:100%;
+	width:100%;
+	color:black;
+	
+}
